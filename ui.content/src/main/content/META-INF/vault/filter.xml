@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/ProSites" mode="merge"/>
+    <filter root="/content/ProSites" mode="merge"/>
+    <filter root="/content/dam/ProSites" mode="merge"/>
+    <filter root="/content/experience-fragments/ProSites" mode="merge"/>
+</workspaceFilter>
